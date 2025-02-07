@@ -8,5 +8,7 @@
         public string? UserAgent { get; set; }
         public string? Host { get; set; }
         public string? CorrelationId { get; set; }
+
+        
     }
 }
